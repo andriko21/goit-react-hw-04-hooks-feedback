@@ -1,0 +1,17 @@
+.Section {
+  width: 300px;
+  padding: 5px;
+  margin: 0 auto;
+  background-color: rgb(221, 253, 253);
+  text-align: center;
+  border: 3px solid rgb(176, 255, 255);
+  border-radius: 5px;
+}
+
+.title {
+  font-size: 29px;
+  font-weight: 600;
+}
+/* .container {
+ 
+} */
